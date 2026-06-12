@@ -37,5 +37,9 @@ public:
         //memberi nilai untuk setiap object yang berada didalam prosedur insert
         Node* newNode = new Node(element, nullptr, nullptr);
         newNode->info = element;
+        newNode->leftChild = nullptr;
+        newNode->rightChild = nullptr;
+
+        Node* parent
     }
 }
