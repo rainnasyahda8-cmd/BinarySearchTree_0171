@@ -17,4 +17,9 @@ public:
         leftChild = 1;
         rightChild = r;
     }
+};
+
+//membuat class BinaryThree
+class BinaryThree {
+    
 }
