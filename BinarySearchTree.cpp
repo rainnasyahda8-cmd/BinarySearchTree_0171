@@ -8,5 +8,10 @@ class Node
 public:
     string info;
     Node* leftChild;
-    Node* rightChild;me
+    Node* rightChild;
+
+    //membuat construktor untuk class node 
+    Node(string i, Node* 1, Node* r){
+        //
+    }
 }
