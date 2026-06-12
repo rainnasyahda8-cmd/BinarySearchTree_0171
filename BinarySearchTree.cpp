@@ -20,10 +20,21 @@ public:
 };
 
 //membuat class BinaryThree
-class BinaryThree {
+class BinaryTree {
 
     //memberi akses modifier dan deklarasi object
 public:
     Node* ROOT;
-    
+
+    //membauat constructor dan memeberi nilai kepada object root
+    BinaryTree(){
+        ROOT = nullptr;
+    }
+
+    //membuat prosedur insert
+    void insert(string element){
+
+        //memberi nilai untuk setiap object yang berada didalam prosedur insert
+        Node*
+    }
 }
