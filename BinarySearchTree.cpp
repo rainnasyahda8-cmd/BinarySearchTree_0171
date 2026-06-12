@@ -8,4 +8,5 @@ class Node
 public:
     string info;
     Node* leftChild;
+    Node* rightChild;me
 }
