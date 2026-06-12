@@ -21,5 +21,8 @@ public:
 
 //membuat class BinaryThree
 class BinaryThree {
-    
+
+    //memberi akses modifier dan deklarasi object
+public:
+    Node*
 }
